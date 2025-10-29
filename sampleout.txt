@@ -1,0 +1,23 @@
+===== Secure Password Vault =====
+1. Add Password
+2. View Passwords
+3. Exit
+Enter your choice: 1
+
+Enter website name: github.com
+Enter username: tejashree
+Enter password: mysecurepass
+
+Password saved successfully!
+
+===== Secure Password Vault =====
+1. Add Password
+2. View Passwords
+3. Exit
+Enter your choice: 2
+
+Stored Passwords:
+-----------------
+Website: github.com
+Username: tejashree
+Password: mysecurepass
